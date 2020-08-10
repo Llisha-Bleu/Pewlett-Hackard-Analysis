@@ -50,7 +50,7 @@ The purpose of this project is to create a database that will assist the manager
 >
 ## Pewlett-Hackard Summary
 >**How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
->1. With over 30% of their workforce retiring, Pewlett-Hackard has a daunting but challenging task ahead as this means they will be task with filling `90,398` roles to fill in the near future.
+>1. With over 30% of their workforce retiring, Pewlett-Hackard has a daunting but challenging task ahead as this means they will be task with filling `90,398` roles to fill in the near future. However with the mentorship program showing a prospect of `1,549` employees being qualified, and hopefull will assume positions of those retiring, will mean that Pewlett willhave an outstanding `88,849` titles/roles to fill.
 >
 >**Table showing an output of eligible candidates for the mentorship program:**
 >
