@@ -26,7 +26,7 @@ The purpose of this project is to create a database that will assist the manager
 ### **The Number of Retiring Employees by Title**
 >1. A total of `90,398` employess are approaching the retirement age for the company. This has the potential of putting  the company in peculiar position of they are not in a postion to fill these  when the opportune time arises.
 >
->2. The majority of positions that will be needed to be filled (as expected) are the senior titles (senior engineer and staff) which accounts for 63.79%. 
+>2. The majority of positions that will be needed to be filled (as expected) are the senior titles (senior engineer and staff) which accounts for 63.79% of all retired titles. They are: 
 >- 29,415 senior engineer: 32.54%
 >- 28,254 senior staff: 31.26%
 >- 14,221 engineer: 15.73%
@@ -40,9 +40,11 @@ The purpose of this project is to create a database that will assist the manager
 >![retiring_titles](./Resources/retiring_titles.png)
 >
 >
->3. The number of individuals available for mentorship mentorship program are `1,549`.
+>3. The number of individuals available for mentorship mentorship program are `1,549`(1.7%).
 >
->4. The number of individuals who are eligible for the mentorship program (`1,549`) compared to the total employees retiring (`90,398`), the company appears to have a huge gap to fill with an outstanding `88,849` positions/title to fill.
+>4. The total employees count for Pewlette is `300,024` employees. Their retirement rate indicates that about 30% of their workforce will be retiring.
+>
+>5. The number of individuals who are eligible for the mentorship program (`1,549`) compared to the total employees retiring (`90,398`), the company appears to have a huge gap to fill with an outstanding `88,849` positions/title to fill.
 >
 >**Table showing an output of eligible candidates for the mentorship programfrom the terminal:**
 >
@@ -51,7 +53,7 @@ The purpose of this project is to create a database that will assist the manager
 >
 ## Pewlett-Hackard Summary
 >**How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
->1. With over 30% of their workforce retiring, Pewlett-Hackard has a daunting but challenging task ahead as this means they will be task with filling `90,398` roles to fill in the near future. However with the mentorship program showing a prospect of `1,549` employees being qualified, and hopefull will assume positions of those retiring, will mean that Pewlett willhave an outstanding `88,849` titles/roles to fill.
+>1. With over 30% of their workforce retiring, Pewlett-Hackard has a daunting but challenging task ahead as this means they will be task with filling `90,398` roles in the near future. Another possibilty is that, with the mentorship program showing a prospect of `1,549` employees being qualified, the intent is that these indivuals will assume positions of those retiring. This could mean that Pewlett will have an outstanding `88,849` titles/roles to fill.
 >
 >**Table showing an output of eligible candidates for the mentorship program:**
 >
@@ -67,4 +69,6 @@ The purpose of this project is to create a database that will assist the manager
 >1. One table that will be good to look at is the employees that are not currently qualified for the mentorship program, to see why they are not qualified and how best the company can help them to get there.
 >
 >2. Another table to assess is to view the titles of those who are qualified for the program, as they will be promoted those roles will also need to be filled subsequently.
+>
+>3. Another suggestion is for the company to cast a wider net with the age requirements to identify or include more indivduals more opportunities within the organization.
 
