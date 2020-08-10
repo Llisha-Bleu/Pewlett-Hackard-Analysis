@@ -34,10 +34,11 @@ The purpose of this project is to create a database that will assist the manager
 >- 4,502 technique leader: 4.98%
 >- 1,761 assistant engineer: 1.95%
 >- 2 manager: 0.00%
->>**Table showing retiring titles from the terminal:**
+>
+>**Table showing retiring titles from the terminal:**
 >
 >![retiring_titles](./Resources/retiring_titles.png)
->- The number of individuals being hired
+>
 >
 >3. The number of individuals available for mentorship mentorship program are `1,549`.
 >
@@ -55,7 +56,7 @@ The purpose of this project is to create a database that will assist the manager
 >**Table showing an output of eligible candidates for the mentorship program:**
 >
 >![mentorship_eligibilty](./Resources/mentorship_eligibilty.png)
->
+
 >**Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
 >1. With the total amount (`90,398`) of employees approaching retirement, Pewlett-Hackard is more than eqipped to to have the retirement-ready employees in the departments to mentor the next generration of Pewlett Hackard employees as only `1,549` are qualified. That means they have `58` times more retirement ready employees than there is qualied personnel.
 >**Table showing an output of upcoming retirement titles from the terminal:**
@@ -64,5 +65,6 @@ The purpose of this project is to create a database that will assist the manager
 
 **Two (2) additional queries or tables that may provide more insight into the upcoming "silver tsunami."?**
 >1. One table that will be good to look at is the employees that are not currently qualified for the mentorship program, to see why they are not qualified and how best the company can help them to get there.
->2. Another table to assess is to view the titles of those who are qualified for the program, asthey will be promoted those roles will also need to be filled subsequently.
+>
+>2. Another table to assess is to view the titles of those who are qualified for the program, as they will be promoted those roles will also need to be filled subsequently.
 
