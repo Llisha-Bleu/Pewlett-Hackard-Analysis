@@ -62,6 +62,7 @@ The purpose of this project is to create a database that will assist the manager
 >
 >![retirement_titles](./Resources/retirement_titles.png)
 
-
-
+**Two (2) additional queries or tables that may provide more insight into the upcoming "silver tsunami."?**
+>1. One table that will be good to look at is the employees that are not currently qualified for the mentorship program, to see why they are not qualified and how best the company can help them to get there.
+>2. Another table to assess is to view the titles of those who are qualified for the program, asthey will be promoted those roles will also need to be filled subsequently.
 
