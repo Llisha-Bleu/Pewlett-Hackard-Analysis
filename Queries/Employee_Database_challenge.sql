@@ -1,5 +1,5 @@
 --Challenge 7 ASSIGNMENT
--- List of sales and development team that will be retiring 
+-- List of all titles that will be retiring 
 SELECT  e.emp_no, e.first_name, e.last_name, t.title, t.from_date, t.to_date
 INTO retirement_titles
 FROM employees as e
